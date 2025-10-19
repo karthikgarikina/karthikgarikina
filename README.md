@@ -3,7 +3,7 @@
 <h3 align="center">A 3rd Year B.Tech Student | Aspiring Full Stack Developer | Relentlessly exploring technologies</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/u/0/home">
+  <a href="https://drive.google.com/file/d/1PD4I5iaM41D4YdkSH-BH_f0JGr_qOnDU/view">
     <img src="https://img.shields.io/badge/View%20My%20Resume-3B5998?style=flat&logo=Google-Docs&logoColor=white" alt="Resume"/>
   </a>
 </p>
