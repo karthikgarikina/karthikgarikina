@@ -1,13 +1,6 @@
 <h1 align="center">👋 Hello! I'm Karthik</h1>
 
-<h3 align="center">A 3rd Year B.Tech Student | Aspiring Full Stack Developer | Relentlessly exploring technologies</h3>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1PD4I5iaM41D4YdkSH-BH_f0JGr_qOnDU/view">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-3B5998?style=flat&logo=Google-Docs&logoColor=white" alt="Resume"/>
-  </a>
-</p>
-
+<h3 align="center">A final Year B.Tech Student | Aspiring Full Stack Developer | Relentlessly exploring technologies</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=500&color=9969E1&center=true&vCenter=true&width=450&lines=Building+Scalable+Web+Applications;Mastering+Data+Structures+%26+Algorithms;Exploring+GenAI;Frontend+polished;Now,+mastering+the+backend+engine" alt="Typing SVG" />
