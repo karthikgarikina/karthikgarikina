@@ -3,7 +3,7 @@
 <h3 align="center">A final Year B.Tech Student | Aspiring Full Stack Developer | Relentlessly exploring technologies</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=500&color=9969E1&center=true&vCenter=true&width=450&lines=Building+Scalable+Web+Applications;Mastering+Data+Structures+%26+Algorithms;Exploring+GenAI;Frontend+polished;Now,+mastering+the+backend+engine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=500&color=9969E1&center=true&vCenter=true&width=450&lines=Building+Scalable+Web+Applications;Mastering+Data+Structures+%26+Algorithms;AI+Engineering;Frontend+polished;Now,+mastering+the+backend+engine" alt="Typing SVG" />
 </p>
 
 ---
